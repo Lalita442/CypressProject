@@ -1,0 +1,11 @@
+node_modules
+README.md.txt
+mochawesome-report
+cypress/reports
+cypress/screenshots
+cypress/sampletest
+cypress/downloads
+cypress/New folder
+package.json
+package-lock.json
+report1.json
